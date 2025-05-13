@@ -14,7 +14,7 @@ The project highlights the value of data analysis in understanding natural pheno
 
 ## Dataset
 
-The dataset used for this project can be found on Kaggle: [Link to your Public Kaggle Dataset](YOUR_PUBLIC_KAGGLE_DATASET_URL_HERE)
+The dataset used for this project can be found on Kaggle: [Link to your Public Kaggle Dataset](https://www.kaggle.com/datasets/nasa/meteorite-landings)
 
 *(If you are also including the CSV directly in the GitHub repository, you can also mention that here, e.g., "The dataset is also available in this repository as `your_dataset_name.csv`.")*
 

@@ -22,7 +22,7 @@ The dataset is also available in this repository as `meteorite-landings.csv`.
 
 (Provide 1-2 sentences describing what the graph shows and why it's significant.)
 
-![Most Impressive Graph](PATH_TO_YOUR_SCREENSHOT_IN_THE_REPO)
+![Most Impressive Graph](images/graph_screenshot.png)
 
 *(To make this work, you'll first need to take a screenshot of your graph, save it as an image file (e.g., `graph_screenshot.png`), and upload it to your GitHub repository, perhaps in an `images` folder or directly in the root. Then, replace `PATH_TO_YOUR_SCREENSHOT_IN_THE_REPO` with the correct relative path, e.g., `graph_screenshot.png` or `images/graph_screenshot.png`)*
 

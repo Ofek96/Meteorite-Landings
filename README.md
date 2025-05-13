@@ -19,12 +19,10 @@ The dataset used for this project can be found on Kaggle: [Meteorite Landings da
 The dataset is also available in this repository as `meteorite-landings.csv`.
 
 ## Most Impressive Graph
-
-(Provide 1-2 sentences describing what the graph shows and why it's significant.)
-
+The graph shows the locations of the meteorite landings on world map (each point represent one location of meteorite) segmented to thier category: Stony meteorites, iron meteorites, stony-iron meteorites.
+When we click on one category in the legend, we will only see the locations of meteorite landings that are from that category.
 ![Most Impressive Graph](images/graph_screenshot.png)
 
-*(To make this work, you'll first need to take a screenshot of your graph, save it as an image file (e.g., `graph_screenshot.png`), and upload it to your GitHub repository, perhaps in an `images` folder or directly in the root. Then, replace `PATH_TO_YOUR_SCREENSHOT_IN_THE_REPO` with the correct relative path, e.g., `graph_screenshot.png` or `images/graph_screenshot.png`)*
 
 ## DataCamp Testimonial
 

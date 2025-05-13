@@ -26,5 +26,5 @@ When we click on one category in the legend, we will only see the locations of m
 
 ## DataCamp Testimonial
 
-(Write 2-4 sentences here about how your learning experience at DataCamp helped you complete this project. Be specific if possible, mentioning particular courses, skills, or concepts.)
-For example: "The skills I developed in DataCamp's 'Data Scientist with Python' career track, particularly in data manipulation with Pandas and visualization with Matplotlib and Seaborn, were instrumental in cleaning the data and uncovering key insights for this project. The structured approach to learning machine learning concepts also gave me the confidence to apply [mention a specific algorithm or technique] effectively."
+The skills I developed in DataCamp's 'Data Analyst with Python' career track, particularly in data manipulation with Pandas and visualization with Matplotlib and Plotly, provided essential expertise in Python, data analysis, and visualization, enabling me to clean the data, uncover key insights, and complete this project confidently.
+

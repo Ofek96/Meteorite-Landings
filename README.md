@@ -1,8 +1,16 @@
-# Title of Your Final Project
+# Meteorite Analysis Project
 
 ## Project Summary
 
-(Write your 5-10 line summary here. Briefly explain what the project is about, the problem it solves or the question it answers, the main methods or techniques used, and the key findings or outcomes.)
+This project explores meteorite data to uncover insights about their landings, classifications, and geographical trends. By analyzing a comprehensive dataset from Kaggle, the project seeks to answer questions like: Which regions of the world have experienced the most meteorite landings? How does the geographical distribution of observed falls differ from that of found meteorites? Are there any geographical differences or differences over time in the class of meteorites that have fallen to Earth?
+ 
+Using Python libraries such as Pandas, Seaborn, and Plotly, the data was cleaned, visualized, and analyzed to reveal meaningful patterns. Key findings:
+* The distribution of meteorite landing is not uniform, and most of them fell in Anterctica.
+* The distribution of observed meteorite impact locations roughly matches the population density map of the Earth.
+* There is almost no differences over time in the class/category of meteorites that have fallen to Earth.
+
+The project highlights the value of data analysis in understanding natural phenomena and showcases the power of Python for data exploration and visualization.
+
 
 ## Dataset
 
